@@ -4,7 +4,7 @@ Copiado online y le introduje una nueva base de datos
 
 ## Paso 1
 
-Ingrese al directorio "hierarchical"
+Ingrese al directorio "ENAHO-master"
 
 ## Paso 2
 
